@@ -1,0 +1,6 @@
+@ICICBANK.API_MONOLITHICARCHITECHRE_HostAddress = http://localhost:5245
+
+GET {{ICICBANK.API_MONOLITHICARCHITECHRE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
