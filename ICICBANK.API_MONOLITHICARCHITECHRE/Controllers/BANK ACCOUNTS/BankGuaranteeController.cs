@@ -7,5 +7,12 @@ namespace ICICBANK.API_MONOLITHICARCHITECHRE.Controllers.BANK_ACCOUNTS
     [ApiController]
     public class BankGuaranteeController : ControllerBase
     {
+        [HttpGet]
+        //[Route("BankGuaranteeGetData")]
+        public async Task<IActionResult> Get()
+        {
+            // Implement logic to retrieve accounts
+            return Ok(new { message = "SampleTesting" });
+        }
     }
 }

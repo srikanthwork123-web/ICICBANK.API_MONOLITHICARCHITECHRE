@@ -7,5 +7,12 @@ namespace ICICBANK.API_MONOLITHICARCHITECHRE.Controllers.BANK_ACCOUNTS
     [ApiController]
     public class IWishGoalsController : ControllerBase
     {
+        [HttpGet]
+      //  [Route("IWishGoalsGetData")]
+        public async Task<IActionResult> Get()
+        {
+            // Implement logic to retrieve accounts
+            return Ok(new { message = "SampleTesting" });
+        }
     }
 }

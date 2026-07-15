@@ -10,27 +10,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\CARDS &amp; LOANS\" />
-    <Folder Include="Controllers\INVESTMENTS &amp; INSURANCE\" />
-    <Folder Include="Controllers\CUSTOMER SERVICE\" />
-    <Folder Include="Controllers\PAYMENTS &amp; TRANSFER\" />
-    <Folder Include="Controllers\OVERVIEW\" />
-    <Folder Include="Interfaces\CARDS &amp; LOANS\" />
-    <Folder Include="Interfaces\INVESTMENTS &amp; INSURANCE\" />
-    <Folder Include="Interfaces\CUSTOMER SERVICE\" />
-    <Folder Include="Interfaces\PAYMENTS &amp; TRANSFER\" />
-    <Folder Include="Interfaces\OVERVIEW\" />
-    <Folder Include="Repository\CARDS &amp; LOANS\" />
-    <Folder Include="Repository\INVESTMENTS &amp; INSURANCE\" />
-    <Folder Include="Repository\CUSTOMER SERVICE\" />
-    <Folder Include="Repository\PAYMENTS &amp; TRANSFER\" />
-    <Folder Include="Services\CARDS &amp; LOANS\" />
-    <Folder Include="Services\INVESTMENTS &amp; INSURANCE\" />
-    <Folder Include="Services\CUSTOMER SERVICE\" />
-    <Folder Include="Services\PAYMENTS &amp; TRANSFER\" />
-    <Folder Include="Repository\OVERVIEW\" />
-    <Folder Include="Services\OVERVIEW\" />
-  </ItemGroup>
-
 </Project>
