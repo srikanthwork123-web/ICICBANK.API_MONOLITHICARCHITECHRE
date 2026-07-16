@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ICICBANK.API.Controllers.Investments_Insurance
+namespace ICICBANK.API.Controllers.Payments_Transfer
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class SSYAccountsController : ControllerBase
+    public class Payments_TransferTaxCenterController : ControllerBase
     {
         [HttpGet]
-       // [Route("SSYAccountsGetData")]
+      //  [Route("TaxCenterGetData")]
         public async Task<IActionResult> Get()
         {
             // Implement logic to retrieve accounts

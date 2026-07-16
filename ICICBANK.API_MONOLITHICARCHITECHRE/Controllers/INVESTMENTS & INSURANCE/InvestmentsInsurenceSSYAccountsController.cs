@@ -5,10 +5,10 @@ namespace ICICBANK.API.Controllers.Investments_Insurance
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PPFAccountsController : ControllerBase
+    public class InvestmentsInsurenceSSYAccountsController : ControllerBase
     {
         [HttpGet]
-     //   [Route("PPFAccountsGetData")]
+       // [Route("SSYAccountsGetData")]
         public async Task<IActionResult> Get()
         {
             // Implement logic to retrieve accounts

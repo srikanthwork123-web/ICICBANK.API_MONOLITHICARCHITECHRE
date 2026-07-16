@@ -40,3 +40,10 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+/*
+1.What is Monolithic architecture?
+A)
+=>Monolithic architecture menas if you develop any project,they mainteined only one api project for apis development and only one database used.single api project and single database used for entire project development.
+=>If any application server is down ,entire production application  will not work.this is one main drawback in monolithic architecture.
+
+ */
