@@ -86,3 +86,43 @@ Create database ICICBANKCustomerService
 
 =============================== 
  */
+/*MicroService Urls:
+ * ====
+=============After deploying this project it shows like this way===
+===============dev region url========
+https://dev-ICICBANKOverviewAPi.com/APi/
+https://dev-ICICBANKBankAccountsAPi.com/APi/
+https://dev-ICICBANKPaymentsAndTransferAPi.com/APi/
+https://dev-ICICBANKCardsAndLoansAPi.com/APi/
+https://dev-ICICBANKInvestmentsAndInsuranceAPi.com/APi/
+https://dev-ICICBANKCustomerServiceAPi.com/APi/
+
+
+=================uat region url===
+https://Uat-ICICBANKOverviewAPi.com/APi/
+https://Uat-ICICBANKBankAccountsAPi.com/APi/
+https://Uat-ICICBANKPaymentsAndTransferAPi.com/APi/
+https://Uat-ICICBANKCardsAndLoansAPi.com/APi/
+https://Uat-ICICBANKInvestmentsAndInsuranceAPi.com/APi/
+https://Uat-ICICBANKCustomerServiceAPi.com/APi/
+
+
+=================Qa region url===
+https://Qa-ICICBANKOverviewAPi.com/APi/
+https://Qa-ICICBANKBankAccountsAPi.com/APi/
+https://Qa-ICICBANKPaymentsAndTransferAPi.com/APi/
+https://Qa-ICICBANKCardsAndLoansAPi.com/APi/
+https://Qa-ICICBANKInvestmentsAndInsuranceAPi.com/APi/
+https://Qa-ICICBANKCustomerServiceAPi.com/APi/
+
+
+=================Production region url===
+https://ICICBANKOverviewAPi.com/APi/
+https://ICICBANKBankAccountsAPi.com/APi/
+https://ICICBANKPaymentsAndTransferAPi.com/APi/
+https://ICICBANKCardsAndLoansAPi.com/APi/
+https://ICICBANKInvestmentsAndInsuranceAPi.com/APi/
+https://ICICBANKCustomerServiceAPi.com/APi/
+
+
+ */
